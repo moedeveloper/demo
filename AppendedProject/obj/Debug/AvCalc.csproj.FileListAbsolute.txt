@@ -1,0 +1,7 @@
+C:\Users\momor1\Desktop\QueenLab\EvaluationAssignment\AppendedProject\bin\Debug\AvCalc.exe.config
+C:\Users\momor1\Desktop\QueenLab\EvaluationAssignment\AppendedProject\bin\Debug\AvCalc.exe
+C:\Users\momor1\Desktop\QueenLab\EvaluationAssignment\AppendedProject\bin\Debug\AvCalc.pdb
+C:\Users\momor1\Desktop\QueenLab\EvaluationAssignment\AppendedProject\obj\Debug\AvCalc.csprojAssemblyReference.cache
+C:\Users\momor1\Desktop\QueenLab\EvaluationAssignment\AppendedProject\obj\Debug\AvCalc.csproj.CoreCompileInputs.cache
+C:\Users\momor1\Desktop\QueenLab\EvaluationAssignment\AppendedProject\obj\Debug\AvCalc.exe
+C:\Users\momor1\Desktop\QueenLab\EvaluationAssignment\AppendedProject\obj\Debug\AvCalc.pdb
